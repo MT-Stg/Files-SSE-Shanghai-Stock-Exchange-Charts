@@ -15,6 +15,6 @@ For the full set of data go to nitrocharts.com
 **6M-Line-BB-MA-MR-w**
   - 6 month chart, Line type, Bollinger Bands with Moving Averages, MACD, RSI, white background
 
-  Want more download options? Let us know, you can contact us through our website nitrocharts.com
 
-  Migizi Tech
+Want more download options? Let us know, you can contact us through our website nitrocharts.com
+Migizi Tech
