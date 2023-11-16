@@ -1,9 +1,9 @@
 # Files-SSE-Shanghai-Stock-Exchange-Stock-Charts
 Files for SSE Stock Data and Charts
 
-Excel files have embedded micro stock chart pictures
+Excel files have embedded micro stock chart pictures.
 
-Demo files have limited rows
+Demo files have limited rows.
 For the full set of data go to nitrocharts.com
 
 **6M-Area-w**
